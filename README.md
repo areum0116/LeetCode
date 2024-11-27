@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/areum0116/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/areum0116/LeetCode/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/areum0116/LeetCode/tree/master/0542-01-matrix) |
 ## Bit Manipulation
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/areum0116/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/areum0116/LeetCode/tree/master/0027-remove-element) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/areum0116/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0322-coin-change](https://github.com/areum0116/LeetCode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/areum0116/LeetCode/tree/master/0542-01-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/areum0116/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Breadth-First Search
@@ -25,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/areum0116/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0207-course-schedule](https://github.com/areum0116/LeetCode/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/areum0116/LeetCode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/areum0116/LeetCode/tree/master/0542-01-matrix) |
 ## Matrix
 |  |
