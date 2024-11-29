@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/areum0116/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/areum0116/LeetCode/tree/master/0027-remove-element) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/areum0116/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0200-number-of-islands](https://github.com/areum0116/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/areum0116/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/areum0116/LeetCode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/areum0116/LeetCode/tree/master/0542-01-matrix) |
@@ -27,12 +28,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/areum0116/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/areum0116/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/areum0116/LeetCode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/areum0116/LeetCode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/areum0116/LeetCode/tree/master/0542-01-matrix) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/areum0116/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/areum0116/LeetCode/tree/master/0542-01-matrix) |
 ## Math
 |  |
@@ -96,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/areum0116/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/areum0116/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/areum0116/LeetCode/tree/master/0207-course-schedule) |
 ## Graph
 |  |
@@ -117,4 +121,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/areum0116/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/areum0116/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
