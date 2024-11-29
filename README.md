@@ -80,10 +80,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/areum0116/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/areum0116/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/areum0116/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/areum0116/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 ## Stack
 |  |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/areum0116/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0207-course-schedule](https://github.com/areum0116/LeetCode/tree/master/0207-course-schedule) |
 ## Graph
 |  |
@@ -110,4 +113,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/areum0116/LeetCode/tree/master/0155-min-stack) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/areum0116/LeetCode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
