@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/areum0116/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/areum0116/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/areum0116/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/areum0116/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/areum0116/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/areum0116/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/areum0116/LeetCode/tree/master/0322-coin-change) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/areum0116/LeetCode/tree/master/0169-majority-element) |
 | [1014-k-closest-points-to-origin](https://github.com/areum0116/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/areum0116/LeetCode/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/areum0116/LeetCode/tree/master/0169-majority-element) |
 | [1014-k-closest-points-to-origin](https://github.com/areum0116/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -69,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/areum0116/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/areum0116/LeetCode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -133,4 +137,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/areum0116/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/areum0116/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
