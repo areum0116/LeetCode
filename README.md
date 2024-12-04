@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/areum0116/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/areum0116/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/areum0116/LeetCode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/areum0116/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/areum0116/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/areum0116/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/areum0116/LeetCode/tree/master/0169-majority-element) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/areum0116/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/areum0116/LeetCode/tree/master/0098-validate-binary-search-tree) |
 ## Union Find
 |  |
