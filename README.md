@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/areum0116/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/areum0116/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/areum0116/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/areum0116/LeetCode/tree/master/0046-permutations) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/areum0116/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/areum0116/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/areum0116/LeetCode/tree/master/0169-majority-element) |
@@ -155,4 +156,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/areum0116/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/areum0116/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
