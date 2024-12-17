@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/areum0116/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/areum0116/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/areum0116/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/areum0116/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/areum0116/LeetCode/tree/master/0200-number-of-islands) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/areum0116/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/areum0116/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/areum0116/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/areum0116/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/areum0116/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/areum0116/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/areum0116/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/areum0116/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/areum0116/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/areum0116/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/areum0116/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/areum0116/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -127,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/areum0116/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/areum0116/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/areum0116/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/areum0116/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/areum0116/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/areum0116/LeetCode/tree/master/0207-course-schedule) |
