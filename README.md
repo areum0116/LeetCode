@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/areum0116/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/areum0116/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/areum0116/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/areum0116/LeetCode/tree/master/0322-coin-change) |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/areum0116/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/areum0116/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/areum0116/LeetCode/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/areum0116/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/areum0116/LeetCode/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/areum0116/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/areum0116/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -187,5 +189,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/areum0116/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/areum0116/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
