@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/areum0116/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/areum0116/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/areum0116/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/areum0116/LeetCode/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/areum0116/LeetCode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/areum0116/LeetCode/tree/master/0542-01-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/areum0116/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/areum0116/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/areum0116/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/areum0116/LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/areum0116/LeetCode/tree/master/0274-h-index) |
 | [1014-k-closest-points-to-origin](https://github.com/areum0116/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -195,4 +197,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/areum0116/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/areum0116/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/areum0116/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/areum0116/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
