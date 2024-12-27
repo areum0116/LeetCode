@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/areum0116/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0257-binary-tree-paths](https://github.com/areum0116/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Sliding Window
 |  |
 | ------- |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/areum0116/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/areum0116/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/areum0116/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/areum0116/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/areum0116/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/areum0116/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/areum0116/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/areum0116/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
 | ------- |
@@ -151,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/areum0116/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/areum0116/LeetCode/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/areum0116/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/areum0116/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Graph
 |  |
 | ------- |
@@ -195,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/areum0116/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/areum0116/LeetCode/tree/master/0046-permutations) |
+| [0257-binary-tree-paths](https://github.com/areum0116/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Greedy
 |  |
 | ------- |
