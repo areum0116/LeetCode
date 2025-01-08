@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/areum0116/LeetCode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/areum0116/LeetCode/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/areum0116/LeetCode/tree/master/1036-rotting-oranges) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/areum0116/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/areum0116/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/areum0116/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/areum0116/LeetCode/tree/master/0257-binary-tree-paths) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/areum0116/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/areum0116/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/areum0116/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/areum0116/LeetCode/tree/master/0257-binary-tree-paths) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/areum0116/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -173,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/areum0116/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/areum0116/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/areum0116/LeetCode/tree/master/0463-island-perimeter) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/areum0116/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
 |  |
 | ------- |
