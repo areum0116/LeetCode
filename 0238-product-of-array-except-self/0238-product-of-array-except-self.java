@@ -2,8 +2,8 @@ class Solution {
     public int[] productExceptSelf(int[] nums) {
         int n = nums.length;
         int[] answer = new int[n];
-        int mul = 1;
 
+        int mul = 1;
         for(int i = 0; i < n; i++){
             answer[i] = mul;
             mul *= nums[i];
