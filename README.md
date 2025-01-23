@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/areum0116/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/areum0116/LeetCode/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/areum0116/LeetCode/tree/master/0542-01-matrix) |
+| [1511-count-number-of-teams](https://github.com/areum0116/LeetCode/tree/master/1511-count-number-of-teams) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/areum0116/LeetCode/tree/master/0542-01-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/areum0116/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/areum0116/LeetCode/tree/master/1036-rotting-oranges) |
+| [1511-count-number-of-teams](https://github.com/areum0116/LeetCode/tree/master/1511-count-number-of-teams) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -250,4 +252,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/areum0116/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/areum0116/LeetCode/tree/master/1511-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/areum0116/LeetCode/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
