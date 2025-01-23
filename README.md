@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/areum0116/LeetCode/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/areum0116/LeetCode/tree/master/0401-binary-watch) |
 ## Array
 |  |
 | ------- |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/areum0116/LeetCode/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/areum0116/LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/areum0116/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/areum0116/LeetCode/tree/master/0401-binary-watch) |
 ## Greedy
 |  |
 | ------- |
