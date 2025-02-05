@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/areum0116/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/areum0116/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/areum0116/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/areum0116/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/areum0116/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/areum0116/LeetCode/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/areum0116/LeetCode/tree/master/0542-01-matrix) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/areum0116/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/areum0116/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/areum0116/LeetCode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/areum0116/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/areum0116/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/areum0116/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/areum0116/LeetCode/tree/master/0274-h-index) |
